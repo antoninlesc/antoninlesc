@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a master student at University of Namur.
+
 <!--
 **antoninlesc/antoninlesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
